@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome to Zspkg](README.md)
+* [👋 Welcome to Zspkg!](README.md)
 
 ## Libraries
 

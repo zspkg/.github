@@ -2,9 +2,9 @@
 description: Introduction to zspkg
 ---
 
-# 👋 Welcome to Zspkg
+# 👋 Welcome to Zspkg!
 
-## What is zspkg?
+## :question:What is zspkg?
 
 `zspkg` is a comprehensive collection of _Golang_ libraries designed to enhance your development workflow and streamline your projects.&#x20;
 
@@ -40,4 +40,9 @@ Explore our vast library collection below:
 [vaulter.md](libraries/vaulter.md)
 {% endcontent-ref %}
 
-## Contacts
+## :mobile\_phone:Contacts
+
+Two primary contacts are:
+
+* **Dmytro Zakharov.** May be contacted via [Telegram](https://t.me/ZamDimon) or email: zamdmytro@gmail.com.
+* **Max Slobodzian.** May be contacted via [Telegram](https://t.me/slbmax).

@@ -4,17 +4,17 @@ description: Add health checks to your service!
 
 # 🧑⚕ Healthman
 
-### What is Healthman?
+## :question:What is Healthman?
 
 Service for easier health management in services. API responses are made according to [Redhat standards](https://developers.redhat.com/sites/default/files/blog/2017/11/microprofile-health-spec.pdf).
 
-### How to install it?
+## :inbox\_tray: How to install it?
 
 ```go
 go get github.com/zspkg/healthman
 ```
 
-### Example usage
+## :desktop: Example usage
 
 Let us take the notifications service as an example. Suppose that it depends on `postgres` database since we need to store identifiers, uses `telegram` client to send messages and `redis` for storing some simple data.
 

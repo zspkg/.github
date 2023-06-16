@@ -3,7 +3,7 @@ Welcome to our GitHub organization!
 
 We are delighted to present a comprehensive collection of _Go_ libraries designed to enhance your development workflow 
 and streamline your projects. Our libraries are specifically crafted to provide valuable tools and utilities for various aspects of backend development, 
-including database management, API helpers, health checks, and much more. Whether you are a beginner or an experienced developer, we've got you covered!
+including database management, API helpers, health checks, and much more. 
 
 Explore our vast library collection below:
 1. **JAC** (**J**son **A**PI **C**onnector) - helps to build API connectors to your services and implements all basic functionality including JWT token support, basic _GET/POST/PATCH/DELETE_ methods implementation etc.   
